@@ -1,24 +1,16 @@
 {
-  "name": "coursera_bootstrap",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "This is a tet directory to learn Git and Node",
-  "main": "indexno.html",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JQLaverde/coursera_bootstrap.git"
-  },
-  "author": "JQLaverde",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JQLaverde/coursera_bootstrap/issues"
-  },
-  "homepage": "https://github.com/JQLaverde/coursera_bootstrap#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.3.0"
   }
 }
